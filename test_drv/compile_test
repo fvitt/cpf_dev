@@ -1,0 +1,2 @@
+/opt/local/bin/gfortran -c -I /terminator-data1/home/fvitt/json-fortran-6.4.0/build/include -I ../src ../src/*.F90 *.F90
+/opt/local/bin/gfortran -o test.exe  -L/terminator-data1/home/fvitt/json-fortran-6.4.0/build/lib -ljsonfortran -Wl,-rpath,/terminator-data1/home/fvitt/json-fortran-6.4.0/build/lib *.o

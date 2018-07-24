@@ -1,0 +1,19 @@
+{ "molecules" :
+  [
+    {
+	"name" : "O3",
+	"description" : "ozone",
+	"molecweight" : 48.0
+    },
+    {
+	"name" : "NO",
+	"description" : "nitric oxide",
+        "molecweight" : 30.0
+    },
+    {
+	"name" : "NO2",
+	"description" : "nitrogen dioxide",
+	"molecweight" : 46.0
+    },
+  ]
+}
